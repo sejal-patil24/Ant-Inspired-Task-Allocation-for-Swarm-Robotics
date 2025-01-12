@@ -24,6 +24,7 @@ Challenges Addressed
  3. Energy Efficiency: Minimized energy consumption while completing tasks efficiently.
 
 Simulation Results
+
 The simulations demonstrated that the ant-inspired approach is effective for:
 1. Balancing task loads across robots.
 2. Scaling up to larger swarms without significant performance drops.
