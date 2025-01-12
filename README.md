@@ -1,13 +1,6 @@
 # Investigation: An Ant-Inspired Task Allocation Model With a Near-Optimal Distribution of Labor for Swarms of Robots.
 Ant-Inspired Task Allocation Model Within a Swarm of Homogeneous Simulated Robotic-Agents
 
-## Disclaimer
-The content of this README has not been consistently updated, but you can find all the details of the project here:
-
-![](./assets/MASTER_THESIS_FIRST_PAGE.png)
-
-<a href="./assets/MASTER_THESIS.pdf">Download PDF</a>
-
 ## You should now
 - AITA = Ant-Inspired Task Allocation
 - FAITA = Fully distributed Ant-Inspired Task Allocation
@@ -16,8 +9,6 @@ The content of this README has not been consistently updated, but you can find a
 - GTA = Greedy Task Allocation
 
 AITA and FAITA are the main observed algorithms.
-
-> WARNING: Only the main branch and the fully-distributed TA branch are (or supposed to be) "bugless". The other branches work for the implementation but are not to be reproduce for your own work as they might contain some sketchy but time saving workaround.
 
 ## What can be observed
 The robot are dispatch from a starting point in an Arena. Their task is selected following the Task allocation model proposed in this paper: https://ssr.seas.harvard.edu/files/ssr/files/disc14-cornejo.pdf.
