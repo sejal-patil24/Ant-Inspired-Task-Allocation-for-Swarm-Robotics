@@ -3,6 +3,7 @@
 This project focuses on building a task allocation model inspired by ant behavior to improve the performance and energy efficiency of robotic swarms. The project involves designing and simulating algorithms to handle tasks dynamically in both centralized and distributed systems.
 
 Overview
+
 The aim is to optimize how tasks are allocated among robots in a swarm, inspired by how ants efficiently distribute tasks in their colonies. This helps achieve:
 
 1. Improved performance in task execution.
